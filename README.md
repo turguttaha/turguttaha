@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-# I'm Taha! I'm a software developer passionate about harnessing 📊data's power. Skilled in 🐍Python and ☕Java, I leverage 🧠AI and data-driven technologies to craft innovative solutions.
+### I'm Taha! I'm a software developer passionate about harnessing 📊data's power. Skilled in 🐍Python and ☕Java, I leverage 🧠AI and data-driven technologies to craft innovative solutions.
 
 
 ## Contact

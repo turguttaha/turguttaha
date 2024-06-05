@@ -2,15 +2,12 @@
 
 ## Hi there 👋
 
-# Welcome to my GitHub Profile!
-
-## About Me
-Hi, I'm Taha! I'm a software developer who is passionate about harnessing the power of data. Skilled in Python and Java, I leverage AI and data-driven technologies to craft innovative solutions.
+# I'm Taha! I'm a software developer passionate about harnessing 📊data's power. Skilled in 🐍Python and ☕Java, I leverage 🧠AI and data-driven technologies to craft innovative solutions.
 
 
 ## Contact
-- **Email**: youremail@example.com
-- **LinkedIn**: [Your LinkedIn Profile](URL)
+- **Email**: tahazubeyirturgut@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/tahaturgut/
 
 
 Feel free to reach out to me or check out my work!

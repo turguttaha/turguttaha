@@ -10,7 +10,7 @@
 - **LinkedIn**: https://www.linkedin.com/in/tahaturgut/
 
 
-Feel free to reach out to me or check out my work!
+**Feel free to reach out to me or check out my work!**
 
 <!--
 **turguttaha/turguttaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
